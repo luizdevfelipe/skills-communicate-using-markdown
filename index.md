@@ -6,3 +6,8 @@
 mkdir /projetos
 cd /projetos
 ```
+
+- [x] Cabeçalho
+- [x] Imagem
+- [x] Código
+- [ ] ...
